@@ -32,6 +32,11 @@
       <enclosure url="$url" length="105738965" type="audio/mpeg"/>
       <guid isPermalink="false">$uuid</guid>
       <pubDate>$pubDate</pubDate>
+      <itunes:title>$title</itunes:title>
+      <itunes:author>France Inter</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>$title</itunes:subtitle>
+      <itunes:summary>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</itunes:summary>
     </item>
     $item:end
   </channel>

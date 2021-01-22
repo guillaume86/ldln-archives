@@ -3,7 +3,7 @@ const { readFile, writeFile } = require("fs/promises");
 
 function substitute(text, vars) {
   return Object.keys(vars).reduce(
-    (text, name) => text.replace(name, vars[name]),
+    (text, name) => text.replace(new RegExp("\\" + name, "g"), vars[name]),
     text
   );
 }
