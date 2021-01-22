@@ -34,4 +34,5 @@
       <pubDate>$pubDate</pubDate>
     </item>
     $item:end
-  </rss>
+  </channel>
+</rss>
