@@ -1,0 +1,14 @@
+https://www.franceinter.fr/emissions/edouard-baer-lumiere-dans-la-nuit?p=1
+
+JSON.stringify(new Array(...document.querySelectorAll('.replay-button.playable')).map(e => ({
+	title: e.getAttribute("data-diffusion-title"), 
+	uuid: e.getAttribute("data-diffusion-uuid"), 
+	startTime: parseInt(e.getAttribute("data-start-time"), 10)
+})), null, 2)
+
+<iframe src="https://www.franceinter.fr/embed/player/aod/5b0031aa-3e17-4571-b177-a61f01eb8483" width="100%" height="100%" layout="responsive" frameborder="0" scrolling="no"></iframe>
+
+https://www.franceinter.fr/embed/player/aod/5b0031aa-3e17-4571-b177-a61f01eb8483 -> data-url=""
+https://media.radiofrance-podcast.net/podcast09/19713-22.06.2020-ITEMA_22366917-2020F32986S0174-1779455909.mp3
+https://media.radiofrance-podcast.net/podcast09/19713-22.06.2020-ITEMA_22366917-2020F32986S0174-1779455909.mp3
+

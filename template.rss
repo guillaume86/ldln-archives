@@ -1,0 +1,37 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
+  <channel>
+    <title>Lumières dans la nuit (Archives)</title>
+    <link>https://www.franceinter.fr/emissions/edouard-baer-lumiere-dans-la-nuit</link>
+    <description>Le rendez-vous du soir anti-déprime et rempli d'imprévus avec Edouard Baer !</description>
+    <language>fr</language>
+    <copyright>Radio France</copyright>
+    <lastBuildDate>$lastBuildDate</lastBuildDate>
+    <generator>Radio France</generator>
+    <image>
+      <url>https://cdn.radiofrance.fr/s3/cruiser-production/2020/05/f17c214a-94a2-45ec-aae7-5a5d34f34879/1400x1400_rf_omm_0000020018_ite.jpg</url>
+      <title>Lumières dans la nuit</title>
+      <link>https://www.franceinter.fr/emissions/edouard-baer-lumiere-dans-la-nuit</link>
+    </image>
+    <itunes:author>France Inter</itunes:author>
+    <itunes:category text="Music"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://cdn.radiofrance.fr/s3/cruiser-production/2020/05/f17c214a-94a2-45ec-aae7-5a5d34f34879/1400x1400_rf_omm_0000020018_ite.jpg"/>
+    <itunes:owner>
+      <itunes:email>podcast@radiofrance.com</itunes:email>
+      <itunes:name>Radio France</itunes:name>
+    </itunes:owner>
+    <itunes:subtitle>Lumières dans la nuit</itunes:subtitle>
+    <itunes:summary>Le rendez-vous du soir anti-déprime et rempli d'imprévus avec Edouard Baer !</itunes:summary>
+    $item:start
+    <item>
+      <title>$title</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="$url" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">$uuid</guid>
+      <pubDate>$pubDate</pubDate>
+    </item>
+    $item:end
+  </rss>

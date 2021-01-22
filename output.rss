@@ -1,0 +1,820 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
+  <channel>
+    <title>Lumières dans la nuit (Archives)</title>
+    <link>https://www.franceinter.fr/emissions/edouard-baer-lumiere-dans-la-nuit</link>
+    <description>Le rendez-vous du soir anti-déprime et rempli d'imprévus avec Edouard Baer !</description>
+    <language>fr</language>
+    <copyright>Radio France</copyright>
+    <lastBuildDate>Fri Jan 22 2021 21:04:23 GMT+0100 (heure normale d’Europe centrale)</lastBuildDate>
+    <generator>Radio France</generator>
+    <image>
+      <url>https://cdn.radiofrance.fr/s3/cruiser-production/2020/05/f17c214a-94a2-45ec-aae7-5a5d34f34879/1400x1400_rf_omm_0000020018_ite.jpg</url>
+      <title>Lumières dans la nuit</title>
+      <link>https://www.franceinter.fr/emissions/edouard-baer-lumiere-dans-la-nuit</link>
+    </image>
+    <itunes:author>France Inter</itunes:author>
+    <itunes:category text="Music"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://cdn.radiofrance.fr/s3/cruiser-production/2020/05/f17c214a-94a2-45ec-aae7-5a5d34f34879/1400x1400_rf_omm_0000020018_ite.jpg"/>
+    <itunes:owner>
+      <itunes:email>podcast@radiofrance.com</itunes:email>
+      <itunes:name>Radio France</itunes:name>
+    </itunes:owner>
+    <itunes:subtitle>Lumières dans la nuit</itunes:subtitle>
+    <itunes:summary>Le rendez-vous du soir anti-déprime et rempli d'imprévus avec Edouard Baer !</itunes:summary>
+
+
+    <item>
+      <title>Dernier samedi soir avant Noël !</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-19.12.2020-ITEMA_22519290-2020F32986S0354.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">0556bb3c-e835-41ea-aaad-2ddc2078a145</guid>
+      <pubDate>Sat Dec 19 2020 21:04:40 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Un samedi soir sur la terre</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/21879-14.12.2020-ITEMA_22514055-2020F32986S0347.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">d7e8b408-e695-4728-ba88-b27788457a05</guid>
+      <pubDate>Sat Dec 12 2020 21:04:40 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Les gens qui doutent</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-05.12.2020-ITEMA_22505143-2020F32986S0340.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">ae6cffa3-46de-4021-91d2-a13c76e47b41</guid>
+      <pubDate>Sat Dec 05 2020 21:04:40 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Mille et une vies</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/21879-07.12.2020-ITEMA_22507032-2020F32986S0333.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">efe4f6d4-d57e-4cb1-b8c0-b5c6e36c9a11</guid>
+      <pubDate>Sat Nov 28 2020 21:04:40 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>"Lumières dans la nuit" : le retour </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/21879-07.12.2020-ITEMA_22507032-2020F32986S0326.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">08a4175d-961d-49dc-bb9d-ba88fa4b03a8</guid>
+      <pubDate>Sat Nov 21 2020 21:04:40 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Remède contre l'ennui </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-22.06.2020-ITEMA_22366917-2020F32986S0174-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">5b0031aa-3e17-4571-b177-a61f01eb8483</guid>
+      <pubDate>Mon Jun 22 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Que ça ne s'arrête jamais</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-18.06.2020-ITEMA_22364152-2020F32986S0170-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">1077efa8-086d-42fd-9ffb-af9a677be408</guid>
+      <pubDate>Thu Jun 18 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Lumières dans la nuit du mercredi 17 juin 2020</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-17.06.2020-ITEMA_22363308-2020F32986S0169-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">5f679ab0-5675-4e43-8e70-19127b468596</guid>
+      <pubDate>Wed Jun 17 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Tapalaba </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-16.06.2020-ITEMA_22362456-2020F32986S0168-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">48e05417-d732-44c9-9278-fc32f84dbde2</guid>
+      <pubDate>Tue Jun 16 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Lumières dans la nuit du lundi 15 juin 2020</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-15.06.2020-ITEMA_22361672-2020F32986S0167-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">adaf32f7-d326-43af-b0e9-acaff1a23db8</guid>
+      <pubDate>Mon Jun 15 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>On se touche presque</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-11.06.2020-ITEMA_22359103-0-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">e3eca392-3468-493f-b893-b33dca71df6b</guid>
+      <pubDate>Thu Jun 11 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Qui est le bruit de l'autre</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-10.06.2020-ITEMA_22358237-0-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">c3b76ec6-c376-4033-928c-234ea046fa02</guid>
+      <pubDate>Wed Jun 10 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Lumières dans la nuit du mardi 09 juin 2020</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-09.06.2020-ITEMA_22357335-0-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">3d76212e-b9e2-49d7-82b7-6d128f39ce6c</guid>
+      <pubDate>Tue Jun 09 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Même pas peur, que du bonheur !</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-08.06.2020-ITEMA_22356487-0-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">9cf7571b-1ba0-4f0a-bf39-ea94120f0709</guid>
+      <pubDate>Mon Jun 08 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>On va boire sous la pluie </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-04.06.2020-ITEMA_22353974-0-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">260f2cd0-7247-4df4-92ba-732fcd49bee1</guid>
+      <pubDate>Thu Jun 04 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Un terrain en pente </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-03.06.2020-ITEMA_22353149-0-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">661f41a8-85c4-401d-b0c1-7e595d874ff8</guid>
+      <pubDate>Wed Jun 03 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Rediffusion de l'émission du jeudi 14 mai 2020 </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-02.06.2020-ITEMA_22352350-0-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">2963ad50-819a-43b3-bbbc-d082ac2a943f</guid>
+      <pubDate>Tue Jun 02 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Un soir des petits parlers </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-01.06.2020-ITEMA_22351459-0-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">086c272d-41de-4648-8495-0b56544b1d85</guid>
+      <pubDate>Mon Jun 01 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>La vie montagnes russes </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-28.05.2020-ITEMA_22349173-0-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">fe9ebfe2-eb54-48d1-8c7f-55ef32e60e1b</guid>
+      <pubDate>Thu May 28 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Rêver les fenêtres ouvertes </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-27.05.2020-ITEMA_22348385-0-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">fdc16d40-5b85-4a0b-a181-fc4135f6a746</guid>
+      <pubDate>Wed May 27 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Chansons de nuit</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-26.05.2020-ITEMA_22347534-0-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">98543c46-8970-435a-87ae-7f099f7fc73f</guid>
+      <pubDate>Tue May 26 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Peur d'avoir peur</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-25.05.2020-ITEMA_22346796-0-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">114d2790-9055-4a39-81ce-6d8b9d351850</guid>
+      <pubDate>Mon May 25 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Ça n'existe pas... et pourquoi pas ? </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-21.05.2020-ITEMA_22344429-0-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">12720af4-59a9-4e23-9977-60efd0b62928</guid>
+      <pubDate>Thu May 21 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Et si on se donnait rendez-vous dans une brasserie ? </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-20.05.2020-ITEMA_22343672-0-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">b36169ee-7afa-4a5e-917e-4338a28a8771</guid>
+      <pubDate>Wed May 20 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>On tombe et on rit </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-19.05.2020-ITEMA_22342869-0-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">5e6cb4eb-9fd3-41d5-8cfc-aefac8a21f95</guid>
+      <pubDate>Tue May 19 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Lumières dans la nuit du lundi 18 mai 2020</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-18.05.2020-ITEMA_22342080-0-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">8b622712-a0ed-4971-aa2c-37204628400c</guid>
+      <pubDate>Mon May 18 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Le temps passe lentement à une allure folle ...</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-14.05.2020-ITEMA_22339643-0-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">542f53f3-5e86-4f26-a3a5-f9bcf595d45b</guid>
+      <pubDate>Thu May 14 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>La vie c'est ce qui se passe quand tout ce qu'on avait prévu n'a pas eu lieu.</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-13.05.2020-ITEMA_22338855-0-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">be7fc37d-e018-458e-9324-d4e6fc8be942</guid>
+      <pubDate>Wed May 13 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Transformer les inquiétudes en sourire</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-12.05.2020-ITEMA_22338039-0-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">4ea43a46-1304-463f-a5a1-032443002143</guid>
+      <pubDate>Tue May 12 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>"Reprendre une conversation gratuite, celle de la vie"</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-11.05.2020-ITEMA_22337278-0-1779455909.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">d88e8b2d-ad34-4bab-bc9b-98ebcf404348</guid>
+      <pubDate>Mon May 11 2020 22:04:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>La dernière de la saison... en direct du bar du Théâtre Antoine </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-23.06.2019-ITEMA_22095649-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">259f600a-8d7b-492e-9a7b-de9a3f916f0c</guid>
+      <pubDate>Sun Jun 23 2019 22:03:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Lumières dans la nuit à Toulouse</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-16.06.2019-ITEMA_22089631-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">511592df-9f9a-4352-ad8a-0202bf84d1b1</guid>
+      <pubDate>Sun Jun 16 2019 22:03:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Lumières dans la nuit du dimanche 09 juin 2019</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-09.06.2019-ITEMA_22083601-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">4db2013c-62b3-45d2-824b-a53e90177a3a</guid>
+      <pubDate>Sun Jun 09 2019 22:03:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Lumières dans la nuit du dimanche 26 mai 2019</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-26.05.2019-ITEMA_22071661-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">f25bd9a6-152e-4809-bb34-471d173bf327</guid>
+      <pubDate>Sun May 26 2019 22:03:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>L'avventura</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-19.05.2019-ITEMA_22065606-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">91936e27-7f25-46d4-81d3-2eeed178fd1d</guid>
+      <pubDate>Sun May 19 2019 22:03:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>En direct de Cannes</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-12.05.2019-ITEMA_22059446-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">633dea43-3461-42d7-9e16-fc15d6db7dcd</guid>
+      <pubDate>Sun May 12 2019 22:03:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>La vida es un carnaval !</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-05.05.2019-ITEMA_22053328-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">1fc2253f-7875-45c3-9246-4c08ae2cc3da</guid>
+      <pubDate>Sun May 05 2019 22:03:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>En direct de Royan </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-28.04.2019-ITEMA_22047247-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">22a47fcc-aa1e-4071-8f0b-146c16901c27</guid>
+      <pubDate>Sun Apr 28 2019 22:03:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Les meilleurs moments 2/2 </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-21.04.2019-ITEMA_22041377-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">f6c65f7e-1c68-4050-adcb-f7cb8bf371a2</guid>
+      <pubDate>Sun Apr 21 2019 22:03:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Les meilleurs moments 1/2</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-14.04.2019-ITEMA_22035421-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">9019c8a8-a179-496e-9f9f-072f8e1d91e3</guid>
+      <pubDate>Sun Apr 14 2019 22:03:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Lumières dans la nuit du dimanche 07 avril 2019</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-07.04.2019-ITEMA_22029287-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">94c373a5-ddca-4aa7-a18a-922e16c69ebe</guid>
+      <pubDate>Sun Apr 07 2019 22:03:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>La nuit des chants</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-31.03.2019-ITEMA_22023155-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">ab91b5d1-df0b-4f35-8b2c-e99cb406c5f0</guid>
+      <pubDate>Sun Mar 31 2019 22:03:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>En direct de Douai </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-24.03.2019-ITEMA_22017150-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">2ee92390-a8bf-4883-bf14-ded4d5fecc09</guid>
+      <pubDate>Sun Mar 24 2019 22:03:30 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>La veillée de dimanche soir </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-17.03.2019-ITEMA_22010921-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">e66e982d-9907-4fb4-b44e-653320b8f56c</guid>
+      <pubDate>Sun Mar 17 2019 22:03:30 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>It's raining cats and dogs</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-10.03.2019-ITEMA_22004543-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">35fdfcd6-1381-46a7-a5f7-bb985984c8d7</guid>
+      <pubDate>Sun Mar 10 2019 22:03:30 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>En direct de Montréal </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-03.03.2019-ITEMA_21997932-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">671eca75-e7ef-4735-8c8e-b5b50adbb67e</guid>
+      <pubDate>Sun Mar 03 2019 22:03:30 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>En direct d'Arles </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-24.02.2019-ITEMA_21991380-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">288c64a1-562c-4a74-9964-35d22c026cc7</guid>
+      <pubDate>Sun Feb 24 2019 22:03:30 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Même pas sommeil !</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-17.02.2019-ITEMA_21984776-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">42768dce-db1f-43a8-9f24-d7b6e7754bb4</guid>
+      <pubDate>Sun Feb 17 2019 22:03:30 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Lumières dans la nuit du dimanche 10 février 2019</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-10.02.2019-ITEMA_21977809-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">0df27fd4-2040-4fba-8600-aeb3d5496992</guid>
+      <pubDate>Sun Feb 10 2019 22:03:30 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>En direct de Bruxelles </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-03.02.2019-ITEMA_21970863-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">bb14202c-a57e-4444-96e2-1151fd99c1d6</guid>
+      <pubDate>Sun Feb 03 2019 22:03:30 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Rois et rêves</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-27.01.2019-ITEMA_21963017-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">d0b5dc58-2b49-4bf8-b2d2-06a072df89c4</guid>
+      <pubDate>Sun Jan 27 2019 22:03:30 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Au coeur du mystère </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-20.01.2019-ITEMA_21956424-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">0084f943-9b0d-4def-8e84-8fd34e158053</guid>
+      <pubDate>Sun Jan 20 2019 22:03:30 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Lumières dans la nuit du dimanche 13 janvier 2019</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-13.01.2019-ITEMA_21949698-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">64357b42-8fba-4a8b-94cd-05f60abd4482</guid>
+      <pubDate>Sun Jan 13 2019 22:03:30 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>D'amour et d'amitié  </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-06.01.2019-ITEMA_21942942-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">3d96b700-3ede-4328-a333-50f8dc6eac96</guid>
+      <pubDate>Sun Jan 06 2019 22:03:30 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Les meilleurs moments 2</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-30.12.2018-ITEMA_21936305-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">03fa1479-2114-4e9d-b097-a7b338c66739</guid>
+      <pubDate>Sun Dec 30 2018 22:03:30 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>C'est Noël ! Les meilleurs moments de l'émission 1/2</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-23.12.2018-ITEMA_21929646-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">dc14e4db-2421-45a9-b0ce-ef8b2c40660e</guid>
+      <pubDate>Sun Dec 23 2018 22:03:30 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Un dimanche de rêve ...</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-16.12.2018-ITEMA_21922857-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">065b1f95-c6df-4cdb-88cb-55f5519e71f9</guid>
+      <pubDate>Sun Dec 16 2018 22:03:30 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Des lumières francophones </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-09.12.2018-ITEMA_21916027-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">1f4f2cb4-a3df-4937-b0f1-95ab0420edad</guid>
+      <pubDate>Sun Dec 09 2018 22:03:30 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Un soir de paradis perdus...</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-02.12.2018-ITEMA_21909301-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">fa157d64-0e9a-4e7e-8245-88263ad3dd8f</guid>
+      <pubDate>Sun Dec 02 2018 22:03:30 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>En direct de Narbonne</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-25.11.2018-ITEMA_21902589-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">ced1687c-2586-48cd-b398-7d7543bff064</guid>
+      <pubDate>Sun Nov 25 2018 22:03:30 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Lumières cultes et pop</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-18.11.2018-ITEMA_21895871-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">7312cce2-90af-4cf5-bdb6-a80a6ebc5e4e</guid>
+      <pubDate>Sun Nov 18 2018 22:03:30 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Lumières dans la nuit du dimanche 11 novembre 2018</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-11.11.2018-ITEMA_21889118-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">cbf7bb87-8eac-4358-94fa-597f8e93c92d</guid>
+      <pubDate>Sun Nov 11 2018 22:03:30 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Je me souviens de Montréal</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-04.11.2018-ITEMA_21881456-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">7e52e536-b446-4adc-97a2-88efd911f21b</guid>
+      <pubDate>Sun Nov 04 2018 22:03:30 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Paris, la nuit</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-28.10.2018-ITEMA_21871503-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">22a0b727-bc0a-48cf-96f0-f3d748453688</guid>
+      <pubDate>Sun Oct 28 2018 22:03:30 GMT+0100 (heure normale d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Feeling good</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-21.10.2018-ITEMA_21861618-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">cc6e8403-dc13-4111-9bd9-c45435e2c020</guid>
+      <pubDate>Sun Oct 21 2018 22:03:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>On occulte tout !</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-14.10.2018-ITEMA_21851672-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">d54409cb-fb42-4428-9cf4-64a22def4458</guid>
+      <pubDate>Sun Oct 14 2018 22:03:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>La bohème </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-07.10.2018-ITEMA_21841851-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">c54ff189-3cec-4887-83de-0ed85ba6c6c8</guid>
+      <pubDate>Sun Oct 07 2018 22:03:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Tous à Poitiers !</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-30.09.2018-ITEMA_21832019-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">ca1f385e-af44-42a8-940e-146124b137c6</guid>
+      <pubDate>Sun Sep 30 2018 22:03:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Le téléphone pleure </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-23.09.2018-ITEMA_21822214-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">36cdb301-d476-4d40-96bd-57d0343ffbc3</guid>
+      <pubDate>Sun Sep 23 2018 22:03:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Intimité et confidences</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-16.09.2018-ITEMA_21812797-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">a41fe708-2db5-4cfb-ad35-f942219d8860</guid>
+      <pubDate>Sun Sep 16 2018 22:03:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>Ce soir, on est de garde...</title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-09.09.2018-ITEMA_21803355-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">9cb38ddc-cd6e-4748-b45e-a32a98dd1b84</guid>
+      <pubDate>Sun Sep 09 2018 22:03:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+    <item>
+      <title>La première... </title>
+      <description>Lumières dans la nuit - Edouard Baer reçoit, depuis son salon, invités et auditeurs. Ce sont les dernières Lumières dans la Nuit de cette série exceptionnelle avant les fêtes.</description>
+      <author>podcast@radiofrance.com</author>
+      <category>Music</category>
+      <enclosure url="https://media.radiofrance-podcast.net/podcast09/19713-02.09.2018-ITEMA_21794015-0.mp3" length="105738965" type="audio/mpeg"/>
+      <guid isPermalink="false">a3c9583b-73ec-4ea7-a9ff-a6ccbab6b85b</guid>
+      <pubDate>Sun Sep 02 2018 22:03:30 GMT+0200 (heure d’été d’Europe centrale)</pubDate>
+    </item>
+
+
+  </rss>
